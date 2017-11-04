@@ -1,6 +1,7 @@
 # VoteForPrice
 Vote for the price of the new item
 How much would you pay for this item?
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +9,7 @@ How much would you pay for this item?
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.3.0 -->
-<title>VoteForPrice | Vote for the price of the new item</title>
+<title>PriceSetter | How much would you pay for this item?</title>
 <meta property="og:title" content="VoteForPrice" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Vote for the price of the new item" />
