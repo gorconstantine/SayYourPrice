@@ -8,9 +8,9 @@
 
   <body>
 
-  <form action="#" name="StudentRegistration" onSubmit="return(validate());">
+  <form action="#" name="SetAPrice" onSubmit="return(validate());">
 
-<table cellpadding="2" width="100%" bgcolor="99FFFF" align="center"
+<table cellpadding="1" width="100%" bgcolor="99FFFF" align="center"
 
   cellspacing="2">
 
