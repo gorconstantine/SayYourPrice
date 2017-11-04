@@ -1,4 +1,4 @@
-# VoteForPrice
+# PriceSetter
 
 
 <!DOCTYPE html>
