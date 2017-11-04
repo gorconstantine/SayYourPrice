@@ -11,12 +11,11 @@
   <form action="#" name="SetAPrice" onSubmit="return(validate());">
 
 <table cellpadding="1" width="100%" bgcolor="99FFFF" align="center"  cellspacing="2">
-
 <tr>
 
   <td>The product</td>
 
-  <td><input type="Image" value="https://cdn.home24.net/images/media/catalog/product/original/png/b/u/buerodrehstuhl-marilyn-kunstleder-schwarz-3325569.jpg" /></td>
+  <td><input type="image" src="https://cdn.home24.net/images/media/catalog/product/original/png/b/u/buerodrehstuhl-marilyn-kunstleder-schwarz-3325569.jpg" /></td>
 
 </tr>
 
@@ -49,8 +48,6 @@
   <td><input type="submit" value="Submit" /></td>
 
 </tr>
-
-https://cdn.home24.net/images/media/catalog/product/original/png/b/u/buerodrehstuhl-marilyn-kunstleder-schwarz-3325569.jpg
 
   </table>
 
