@@ -1,36 +1,212 @@
-# PriceSetter
+<html>
 
-<html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.3.0 -->
-<title>PriceSetter | How much would you pay for this item?</title>
-<meta property="og:title" content="VoteForPrice" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Vote for the price of the new item" />
-<meta property="og:description" content="Vote for the price of the new item" />
-<link rel="canonical" href="https://gorconstantine.github.io/VoteForPrice/" />
-<meta property="og:url" content="https://gorconstantine.github.io/VoteForPrice/" />
-<meta property="og:site_name" content="VoteForPrice" />
-<script type="application/ld+json">
-{"name":"VoteForPrice","description":"Vote for the price of the new item","author":null,"@type":"WebSite","url":"https://gorconstantine.github.io/VoteForPrice/","image":null,"publisher":null,"headline":"VoteForPrice","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+  <script type="text/javascript" src="validate.js"></script>
 
-    <link href="/VoteForPrice/assets/css/style.css?v=bf7f3a001c9a843310fbb038404f13aa8eb4acc3" rel="stylesheet">
   </head>
+
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
 
-      <h1 id="voteforprice">VoteForPrice</h1>
-<p>How much would you pay for this item?</p>
+  <form action="#" name="StudentRegistration" onSubmit="return(validate());">
+
+<table cellpadding="2" width="20%" bgcolor="99FFFF" align="center"
+
+  cellspacing="2">
 
 
-      
-    </div>
-    <script src="/VoteForPrice/assets/javascript/anchor-js/anchor.min.js"></script>
-    <script>anchors.add();</script>
+<tr>
+
+  <td colspan=2>
+
+  <center><font size=4><b>Student Registration Form</b></font></center>
+
+  </td>
+
+  </tr>
+
+
+<tr>
+
+  <td>Name</td>
+
+  <td><input type=text name=textnames id="textname" size="30"></td>
+
+  </tr>
+
+
+<tr>
+
+  <td>Father Name</td>
+
+  <td><input type="text" name="fathername" id="fathername"
+
+  size="30"></td>
+
+  </tr>
+
+  <tr>
+
+  <td>Postal Address</td>
+
+  <td><input type="text" name="paddress" id="paddress" size="30"></td>
+
+  </tr>
+
+
+<tr>
+
+  <td>Personal Address</td>
+
+  <td><input type="text" name="personaladdress"
+
+  id="personaladdress" size="30"></td>
+
+  </tr>
+
+
+<tr>
+
+  <td>Sex</td>
+
+  <td><input type="radio" name="sex" value="male" size="10">Male
+
+  <input type="radio" name="sex" value="Female" size="10">Female</td>
+
+  </tr>
+
+
+<tr>
+
+  <td>City</td>
+
+  <td><select name="City">
+
+  <option value="-1" selected>select..</option>
+
+  <option value="New Delhi">NEW DELHI</option>
+
+  <option value="Mumbai">MUMBAI</option>
+
+  <option value="Goa">GOA</option>
+
+  <option value="Patna">PATNA</option>
+
+  </select></td>
+
+  </tr>
+
+
+<tr>
+
+  <td>Course</td>
+
+  <td><select name="Course">
+
+  <option value="-1" selected>select..</option>
+
+  <option value="B.Tech">B.TECH</option>
+
+  <option value="MCA">MCA</option>
+
+  <option value="MBA">MBA</option>
+
+  <option value="BCA">BCA</option>
+
+  </select></td>
+
+  </tr>
+
+
+<tr>
+
+  <td>District</td>
+
+  <td><select name="District">
+
+  <option value="-1" selected>select..</option>
+
+  <option value="Nalanda">NALANDA</option>
+
+  <option value="UP">UP</option>
+
+  <option value="Goa">GOA</option>
+
+  <option value="Patna">PATNA</option>
+
+  </select></td>
+
+
+</tr>
+
+
+<tr>
+
+  <td>State</td>
+
+  <td><select Name="State">
+
+  <option value="-1" selected>select..</option>
+
+  <option value="New Delhi">NEW DELHI</option>
+
+  <option value="Mumbai">MUMBAI</option>
+
+  <option value="Goa">GOA</option>
+
+  <option value="Bihar">BIHAR</option>
+
+  </select></td>
+
+  </tr>
+
+  <tr>
+
+  <td>PinCode</td>
+
+  <td><input type="text" name="pincode" id="pincode" size="30"></td>
+
+
+</tr>
+
+  <tr>
+
+  <td>EmailId</td>
+
+  <td><input type="text" name="emailid" id="emailid" size="30"></td>
+
+  </tr>
+
+
+<tr>
+
+  <td>DOB</td>
+
+  <td><input type="text" name="dob" id="dob" size="30"></td>
+
+  </tr>
+
+
+<tr>
+
+  <td>MobileNo</td>
+
+  <td><input type="text" name="mobileno" id="mobileno" size="30"></td>
+
+  </tr>
+
+  <tr>
+
+  <td><input type="reset"></td>
+
+  <td colspan="2"><input type="submit" value="Submit Form" /></td>
+
+  </tr>
+
+  </table>
+
+  </form>
+
   </body>
-</html>
+
+  </html>
