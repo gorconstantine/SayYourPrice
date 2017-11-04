@@ -37,15 +37,15 @@
 
 </tr>
 
+
+
+</tr>
+
 <tr>
 
-  <td><input type="submit" value="Submit" /></td>
+  <td colspan="4"><input type="submit" value="Submit" /></td>
 
 </tr>
-
-</tr>
-
-
 
 
   </table>
