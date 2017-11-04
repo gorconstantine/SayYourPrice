@@ -16,7 +16,7 @@
 
   <td>The product</td>
 
-  <td></td>
+  <td><input type="Image" value="https://cdn.home24.net/images/media/catalog/product/original/png/b/u/buerodrehstuhl-marilyn-kunstleder-schwarz-3325569.jpg" /></td>
 
 </tr>
 
@@ -49,6 +49,8 @@
   <td><input type="submit" value="Submit" /></td>
 
 </tr>
+
+https://cdn.home24.net/images/media/catalog/product/original/png/b/u/buerodrehstuhl-marilyn-kunstleder-schwarz-3325569.jpg
 
   </table>
 
