@@ -27,7 +27,7 @@
       
 
       <h1 id="voteforprice">VoteForPrice</h1>
-<p>Vote for the price of the new item</p>
+<p>How much would you pay for this item?</p>
 
 
       
