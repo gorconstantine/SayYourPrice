@@ -1,7 +1,13 @@
+<?php
+if($_POST["submit"]) {
+    mail("gorconstantine@gmail.com", "Form to email", $_POST["message"], "From: $sender <$senderEmail>");
+}
+?>
+
 <html>
 <body>
 
-<form action="#" name="SetAPrice" onSubmit="return(validate());">
+<form method="post" action="#" name="SetAPrice" onSubmit="return(validate());">
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
 
 <tr>
