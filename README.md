@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<form method="POST" action="mailto:gorconstantine@gmail.com">
+<form method="POST" action="https://gorconstantine.github.io/SayYourPrice/gorconstantine@gmail.com">
     
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
 
@@ -21,11 +21,9 @@
   <td><input type="text" name="maxprice"  id="maxprice" size="30"></td>
 </tr>
 </tr>
-<button type="submit">
-    Submit
-</button>
-
-
+<tr>
+  <td colspan="4"><input type="submit" value="Submit" align="center"/></td>
+</tr>
 </table>
 </form>
 </body>
