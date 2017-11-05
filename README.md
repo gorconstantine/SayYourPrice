@@ -1,13 +1,10 @@
-<?php
-if($_POST["submit"]) {
-    mail("gorconstantine@gmail.com", "Form to email", $_POST["message"], "From: $sender <$senderEmail>");
-}
-?>
 
 <html>
 <body>
 
-<form method="post" action="#" name="SetAPrice" onSubmit="return(validate());">
+<form Action="mailto:xyz?Subject=Test_Post" METHOD="POST">
+    mailto: protocol test: 
+    
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
 
 <tr>
