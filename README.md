@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<form Action="mailto:xyz?Subject=Test_Post" METHOD="POST">
+<form Action="mailto:gorconstantine@gmail.com" METHOD="POST">
     mailto: protocol test: 
     
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
