@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<form Action="mailto:gorconstantine@gmail.com" METHOD="POST">
-    mailto: protocol test: 
+<form action="mailto:gorconstantine@gmail.com" method="POST" enctype="multipart/form-data"
+  name="EmailTestForm">    
     
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
 
