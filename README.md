@@ -49,7 +49,8 @@
     <!-- not required, but we'd appreciate it if you'd link to us somewhere on your site -->
     <p>Powered by <a href="https://postmail.invotes.com" target="_blank">PostMail</a></p>
 </form>
-     
+   
+</body>  
 <!-- optional, prevents the submit button from being pressed more than once -->
 <script>
     var submitButton = document.getElementById("submit_form");
@@ -63,5 +64,4 @@
 </script> 
 
 
-</body>
 </html>
