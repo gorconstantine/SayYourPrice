@@ -21,10 +21,9 @@
   <td><input type="text" name="maxprice"  id="maxprice" size="30"></td>
 </tr>
 </tr>
+<button type="submit">
+</button>
 
-<tr>
-  <td colspan="4"><input type="submit" value="Submit" align="center"/></td>
-</tr>
 
 </table>
 </form>
