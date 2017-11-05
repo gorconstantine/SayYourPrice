@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<form method="POST" action="https://github.io/gorconstantine@gmail.com">
+<form method="POST" action="mailto:gorconstantine@gmail.com">
     
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
 
@@ -22,6 +22,7 @@
 </tr>
 </tr>
 <button type="submit">
+    Submit
 </button>
 
 
