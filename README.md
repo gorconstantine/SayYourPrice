@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<form method="POST" action="http://formspree.io/gorconstantine@gmail.com">
+<form method="POST" action="https://gorconstantine.github.io/SayYourPrice/gorconstantine@gmail.com">
     
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
 
