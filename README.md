@@ -2,8 +2,7 @@
 <html>
 <body>
 
-<form action="mailto:gorconstantine@gmail.com" method="POST" enctype="multipart/form-data"
-  name="EmailTestForm">    
+<form method="POST" action="http://formspree.io/gorconstantine@gmail.com">
     
 <table cellpadding="1" width="100%" align="center"  cellspacing="2">
 
